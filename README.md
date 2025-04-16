@@ -153,7 +153,7 @@ See [`INTENT.iblueprint`](./INTENT.iblueprint) for a detailed statement of proje
 
 ---
 
-## Author
+## Author(s)
 
 Protoncracker  
 [GitHub: /Protoncracker](https://github.com/Protoncracker)
@@ -164,6 +164,13 @@ Protoncracker
 
 - Inspired by best practices in benchmarking and early-stage documentation (see [IntentBlueprint](https://github.com/Protoncracker/IntentBlueprint)).
 - Uses only standard Python libraries for maximum portability.
+
+---
+
+## Stay Connected
+
+If you enjoyed this project, **follow my GitHub profile (@Protoncracker) to see more content like this** and stay updated on future releases and tools.  
+You can also find me on my socials (search for Protoncracker) for more insights, updates, and tech discussions.
 
 ---
 
